@@ -2,7 +2,7 @@
 광주 4반, 알고리즘 스터디
 
 # LICENSE
-This is released under the MIT license. See LICENSE for details.
+This is released under the MIT license. See [LICENSE]() for details.
 
 # Contributors
 
