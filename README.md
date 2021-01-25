@@ -1,11 +1,9 @@
 # Algorithm_AlgoGaZa
 광주 4반, 알고리즘 스터디
 
-# LICENSE
+## LICENSE
 This is released under the MIT license. See [LICENSE]() for details.
-
-# Contributors
-
+  
 ## 기간     
 2020/01/25 ~ 1달/2달 또는 SSAFY를 탈출할 때 까지       
    
@@ -44,3 +42,8 @@ This is released under the MIT license. See [LICENSE]() for details.
 그러니 부끄러워 말고, 자신이 알고리즘 문제를 풀었던, 안 풀었던 과감히 올리자      
      
 ## 📖 HISTORY
+
+## Contributors
+  
+## 참고하면 도움 될 만한 사이트    
+[동빈나 유튜브 실전 알고리즘](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)   
