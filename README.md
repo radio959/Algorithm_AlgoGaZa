@@ -46,4 +46,4 @@ This is released under the MIT license. See [LICENSE]() for details.
 ## Contributors
   
 ## 참고하면 도움 될 만한 사이트    
-[동빈나 유튜브 실전 알고리즘](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)   
+:youtube:[동빈나 유튜브 실전 알고리즘](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)   
