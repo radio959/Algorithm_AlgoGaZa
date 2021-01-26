@@ -44,6 +44,12 @@ This is released under the MIT license. See [LICENSE]() for details.
 ## 📖 HISTORY
 
 ## 😉Contributors
+
+<a href="https://github.com/SSAFY-5th-GwanJu-4C/Algorithm_AlgoGaZa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SSAFY-5th-GwanJu-4C/Algorithm_AlgoGaZa" />
+</a>
   
+Made with [contributors-img](https://contrib.rocks).    
+
 ## 참고하면 도움 될 만한 사이트    
 💎[동빈나 유튜브 실전 알고리즘](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)   
