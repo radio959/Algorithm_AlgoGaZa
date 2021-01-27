@@ -5,7 +5,6 @@ public class Main {
     private static int n;   /// 사람의 수
     private static int[] healthMinus; // 체력 잃는 수
     private static int[] pleasurePlus; // 기쁨 얻는 수
-    private static int[][] d; // 순서 / 남은 체력
 
     public static void main(String[] args) {
         n = SCANNER.nextInt();
