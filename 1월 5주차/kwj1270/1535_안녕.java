@@ -10,7 +10,6 @@ public class Main {
         n = SCANNER.nextInt();
         healthMinus = new int[n];
         pleasurePlus = new int[n];
-        d = new int[n][101];
 
         for (int i = 0; i < n; i++) {
             healthMinus[i] = SCANNER.nextInt();
