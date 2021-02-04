@@ -42,5 +42,4 @@ public class Checker_1316 {
 		
 		System.out.println(count);
 	}
-
 }
