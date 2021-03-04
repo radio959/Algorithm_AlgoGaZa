@@ -15,4 +15,4 @@
 |무기 공학| https://www.acmicpc.net/problem/18430|
 |구슬 탈출|https://www.acmicpc.net/problem/13460|
 |후보 추천하기|https://www.acmicpc.net/problem/1713|
-|수 찾기|https://www.acmicpc.net/problem/1920|
+|수 찾기|https://www.acmicpc.net/problem/1339|
