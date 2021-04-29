@@ -1,21 +1,17 @@
-package week13;
+import java.util.*;
+import java.lang.*;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
-public class PGMS_신규_아이디_추천 {
-
-	public static void main(String[] args) {
-		StringBuilder answer = new StringBuilder();
-		Scanner sc = new Scanner(System.in);
-		String new_id = sc.next();
-		ArrayList<Character> list = new ArrayList<Character>();
-		ArrayList<Character> list2 = new ArrayList<Character>();
-		for (int i = 0; i < new_id.length(); i++) {
-			list.add(new_id.toCharArray()[i]);
-		}
-		
-		String tttt = "ABC";
+class Solution {
+	
+    public String solution(String new_id) {
+	    
+        StringBuilder answer = new StringBuilder();
+        ArrayList<Character> list = new ArrayList<Character>();
+        for(int i=0; i<new_id.length(); i++){
+            list.add(new_id.toCharArray()[i]);  
+        }
+	    
+        String tttt = "ABC";
 		while(!tttt.equals(list.toString())) {
 	        tttt = list.toString();
 			if (!list.isEmpty()) {
@@ -34,12 +30,15 @@ public class PGMS_신규_아이디_추천 {
 	            repeatCopy(list);
 	        }
 		}
-
+            
         
-        System.out.println(list.toString());
-	}
-
-	private static void BigtoSmall(ArrayList<Character> list) {
+        for(int i=0; i<list.size(); i++){
+            answer.append(list.get(i));
+        }
+        return answer.toString();
+    }
+    
+    private static void BigtoSmall(ArrayList<Character> list) {
 		for (int i = 0; i < list.size(); i++) {
 			if ('A' <= list.get(i) && list.get(i) <= 'Z') {
 				list.set(i, (char) (list.get(i) + 32));
